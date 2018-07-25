@@ -51,7 +51,7 @@ body {
 }
 
 .carousel-control-next:hover {
-  cursor: url("../img/right.png"), default !important
+  cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA70lEQVRYR73VzQnCUBAEYNOBOYkViMdAGhC7EU0vYhWCPaSCQA6iNWgVzh48Jm9/ZvNgLmHz5iM5bLUqnwojF+SOfMrjtgm5vHQ6DFyRN3JgIzSADUp7ZJ+B0ADkC6UhtIA0hAWQgrAC6AgPgIrwAmiICICCiALCCAYghGAB3AgmwIVgA8yIDMAfIduzRkakmVq5WYAtCl/IGhmQdkmAlMv63iFP5Ih8lwKYygXF/AXmcibAVc4CuMsZgFB5FBAujwAo5V4ArdwDoJZbAfRyCyClXAtIK9cCzhi8aRbL1MKZe67dBSdc8pjbap5yeecH8RxcITKANMQAAAAASUVORK5CYII="), default !important
 }
 
 .carousel-control-prev:hover {
