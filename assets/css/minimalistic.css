@@ -22,10 +22,7 @@ body {
   z-index: 1029;
 }
 .carousel-item {
-  height: 100vh;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  
 }
 .carousel-project {
   height: 100vh;
