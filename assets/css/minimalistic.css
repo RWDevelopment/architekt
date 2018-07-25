@@ -5,7 +5,7 @@ body {
   background:#ffffff;
 }
 .navbar-brand {
-  margin-right:-54px;
+  margin-left:54px;
 }
 .navbar-brand, .navbar .nav-link {
   font-weight: 300;
