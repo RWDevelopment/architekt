@@ -55,7 +55,7 @@ body {
 }
 
 .carousel-control-prev:hover {
-  cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA6klEQVRYR73VywkCYQwEYLcKsQIRFGsQKxCrENtZxG5sQUSwBh9FOIE9iAf/ZDJRGARdMh97mW5U85ng7BbpW+e71gPE/1Z+QqbIHjn8uqEGfJZfUbxGHv8ChMsNpnoDVLkKQJcrAKnyLCBdngFIylmArJwBSMujAHl5BFBS7gWUlXsApeUewAUPLZAnMm8NC7GczS044+gSeQ2AO1OSWcPxsO0zfN+QFSJFeNawFOEB2BssQ3gBZYgIoAQRBcgRDECKYAEyRAYgQWQBaYQCkEKoADRCCaAQasA3Yocfjpk1ZNfXtmPTKrfjb6cjWiG4iZ/jAAAAAElFTkSuQmCC"), default !important
+  cursor: url("../img/left.png"), default !important
 }
 /* -------------- burger -------------- */
 .burger { width:30px; height:30px; position:relative; border-radius: 0px; z-index: 1032;}
