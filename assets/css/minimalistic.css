@@ -4,6 +4,9 @@ body {
 .navbar {
   background:#ffffff;
 }
+.navbar-brand {
+  margin-right:-54px;
+}
 .navbar-brand, .navbar .nav-item a {
   font-weight: 300;
 }
