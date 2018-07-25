@@ -7,7 +7,7 @@ body {
 .navbar-brand {
   padding-left:54px;
 }
-.navbar-brand, .nav-link {
+.navbar-brand, .nav-item {
   font-weight: 300;
 }
 /* -------------- burger -------------- */
