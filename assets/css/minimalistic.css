@@ -16,6 +16,9 @@ body {
   text-transform:uppercase;
   color: #444444;
 }
+.t-shadow {
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
 #wrapper {
   position: absolute;
   width: 100%;
