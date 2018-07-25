@@ -34,7 +34,7 @@ body {
   background-size: cover;
 }
 .carousel-caption {
-  top:0px;
+  top:45%;
   left:5%;
   right:5%
 }
