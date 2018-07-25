@@ -3,12 +3,15 @@ body {
 }
 .navbar {
   background:#ffffff;
+  font-weight: 300;
 }
 .navbar-brand {
-  padding-left:54px;
+  padding-left: 54px;
 }
-.navbar, .nav a {
+.nav a {
   font-weight: 300;
+  font-size: 14px;
+  text-transform:uppercase;
 }
 /* -------------- burger -------------- */
 .burger { width:30px; height:30px; position:relative; border-radius: 0px; z-index: 1032;}
