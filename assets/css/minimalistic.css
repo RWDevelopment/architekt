@@ -21,6 +21,10 @@ body {
   width: 100%;
   z-index: 1029;
 }
+.opaque-overlay {
+  overflow: hidden;
+  position: relative; 
+}
 .opaque-overlay > *:first-child:before {
     content: '';
     width: 100%;
