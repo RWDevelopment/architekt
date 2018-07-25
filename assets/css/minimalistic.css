@@ -4,7 +4,7 @@ body {
 .navbar {
   background:#ffffff;
 }
-.navbar-brand {
+.navbar-brand, .navbar-brand nav {
   font-weight: 300;
 }
 /* -------------- burger -------------- */
