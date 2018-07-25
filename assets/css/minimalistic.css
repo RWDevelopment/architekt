@@ -54,7 +54,7 @@ body {
   width: 50%;
 }
 
-.carousel-inner:hover {
+.carousel-item:hover {
   cursor: none, default !important
 }
 
