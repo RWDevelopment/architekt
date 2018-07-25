@@ -27,6 +27,7 @@ body {
   background-position: center;
   background-size: cover;
 }
+.carousel-caption {position: absolute;}
 /* -------------- burger -------------- */
 .burger { width:30px; height:30px; position:relative; border-radius: 0px; z-index: 1032;}
 .burger span { position: relative; margin-top: 9px; margin-bottom: 9px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; position: absolute; top: 50%; left: 50%; margin-left: -15px; margin-top: -1.5px;}
