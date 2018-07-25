@@ -27,6 +27,12 @@ body {
   background-position: center;
   background-size: cover;
 }
+.carousel-project {
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
 .carousel-caption {}
 /* -------------- burger -------------- */
 .burger { width:30px; height:30px; position:relative; border-radius: 0px; z-index: 1032;}
