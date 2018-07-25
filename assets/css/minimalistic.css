@@ -50,7 +50,7 @@ body {
   display: none;
 }
 .carousel-project:hover {
-  cursor: none, default !important
+  cursor: none;
 }
 
 .carousel-control-next:hover {
