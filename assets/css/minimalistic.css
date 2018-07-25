@@ -49,9 +49,6 @@ body {
 .carousel-control-next-icon, .carousel-control-prev-icon {
   display: none;
 }
-.carousel-project:hover {
-  cursor: none;
-}
 
 .carousel-control-next:hover {
   cursor: url("../img/right.png"), default !important
