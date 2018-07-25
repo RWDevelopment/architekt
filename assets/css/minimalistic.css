@@ -21,7 +21,7 @@ body {
   width: 100%;
   z-index: 1029;
 }
-.carousel-inner {
+.carousel-item {
   background: rgba(255, 255, 255, 0.75);
 }
 .carousel-project {
