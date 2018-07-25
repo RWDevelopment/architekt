@@ -50,14 +50,6 @@ body {
   display: none;
 }
 
-.carousel-control-next,.carousel-control-prev{
-  width: 50%;
-}
-
-.carousel-item:hover {
-  cursor: none, default !important
-}
-
 .carousel-control-next:hover {
   cursor: url("../img/right.png"), default !important
 }
