@@ -46,16 +46,16 @@ body {
   background-size: cover;
 }
 .carousel-caption {
-  top:43%;
+  font-weight: 300;
+  top:48%;
   left:5%;
   right:5%
 }
 .carousel-caption h1{
   text-transform:lowercase;
-  font-weight: 400;
 }
 .carousel-caption p{
-  font-weight: 300;
+  text-transform:uppercase;
 }
 .carousel-control-next-icon, .carousel-control-prev-icon {
   display: none;
