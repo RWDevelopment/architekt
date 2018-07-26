@@ -222,7 +222,7 @@ body {
                 width: calc(100vw - 50px);
         }
 	.carousel-project {
-                height: calc(100vh - 135px);
+                height: calc(100vh - 125px);
  
          }
 }
