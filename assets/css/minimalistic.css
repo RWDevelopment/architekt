@@ -216,6 +216,11 @@ body {
 	.navbar-brand { 
 		padding-left: 0px;
 	} 
+	#wrapper {
+                top:70px;
+                left:25px;
+                width: calc(100% - 50px);
+        }
 }
 @media (min-width: 576px) and (max-width: 767.98px) { 
 	
