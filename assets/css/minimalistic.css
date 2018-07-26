@@ -26,7 +26,7 @@ body {
   top:120px;
   left:50px;
   width: calc(100% - 100px);
-  z-index: 1029;
+  z-index: 10;
 }
 .opaque-overlay {
   overflow: hidden;
