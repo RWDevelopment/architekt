@@ -221,6 +221,10 @@ body {
                 left:25px;
                 width: calc(100% - 50px);
         }
+	.carousel-project {
+                height: calc(100vh - 145px);
+ 
+         }
 }
 @media (min-width: 576px) and (max-width: 767.98px) { 
 	
