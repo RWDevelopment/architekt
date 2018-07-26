@@ -40,7 +40,7 @@ body {
     background: rgba(0,0,0, 0.45);
 }
 .carousel-project {
-  height: 100vh;
+  height: 80vh;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
