@@ -27,6 +27,7 @@ body {
   top:120px;
   left:50px;
   width: calc(100% - 100px);
+  height: calc(100vh - 170px);
 }
 .opaque-overlay {
   overflow: hidden;
@@ -41,9 +42,6 @@ body {
     top: 0px;
     pointer-events: none;
     background: rgba(0,0,0, 0.45);
-}
-.carousel-inner {
-  height: calc(100vh - 170px);
 }
 .carousel-project {
   height: calc(100vh - 170px);
