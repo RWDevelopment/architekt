@@ -23,6 +23,7 @@ body {
 }
 #wrapper {
   position: absolute;
+  left:100px;
   width: calc(100% - 200px);
   z-index: 1029;
 }
