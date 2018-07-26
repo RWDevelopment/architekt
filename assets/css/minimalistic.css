@@ -23,7 +23,7 @@ body {
 }
 #wrapper {
   position: absolute;
-  width: calc(100vw - 60px);
+  width: calc(100% - 30px);
   z-index: 1029;
 }
 .opaque-overlay {
