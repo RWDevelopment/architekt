@@ -52,6 +52,9 @@ body {
 }
 .carousel-caption h1{
   text-transform:lowercase;
+  font-weight: 400;
+}
+.carousel-caption p{
   font-weight: 300;
 }
 .carousel-control-next-icon, .carousel-control-prev-icon {
