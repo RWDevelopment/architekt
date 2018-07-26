@@ -219,10 +219,10 @@ body {
 	#wrapper {
                 top:95px;
                 left:25px;
-                width: calc(100% - 50px);
+                width: calc(100vw - 50px);
         }
 	.carousel-project {
-                height: calc(100vh - 145px);
+                height: calc(100vh - 135px);
  
          }
 }
