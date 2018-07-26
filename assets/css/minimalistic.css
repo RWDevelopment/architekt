@@ -6,7 +6,7 @@ body {
   font-weight: 300;
 }
 .navbar-brand {
-  font-size: 18px;
+  font-size: 20px;
   text-transform:uppercase;
   padding-left: 54px;
 }
@@ -14,6 +14,7 @@ body {
   
 }
 .nav-link {
+  font-size: 14px;
   color: #444444;
 }
 .t-shadow {
