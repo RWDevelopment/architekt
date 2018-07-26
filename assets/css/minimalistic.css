@@ -24,8 +24,8 @@ body {
 }
 .wrapper {
   position: absolute;
-  top:120px;
-  left:50px;
+  to:120px;
+  lef:50px;
   width: calc(100% - 100px);
 }
 .opaque-overlay {
