@@ -21,7 +21,8 @@ body {
 .t-shadow {
   text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
 }
-.wrapper {
+
+.wrappe {
   position: absolute;
   top:120px;
   left:50px;
@@ -40,6 +41,9 @@ body {
     top: 0px;
     pointer-events: none;
     background: rgba(0,0,0, 0.45);
+}
+.carousel-inner {
+  height: calc(100vh - 170px);
 }
 .carousel-project {
   height: calc(100vh - 170px);
