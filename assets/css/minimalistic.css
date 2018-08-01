@@ -23,7 +23,7 @@ body {
 }
 
 .wrapper {
-  position: absolute;
+  position: relative;
   display:block;
   top:120px;
   left:50px;
