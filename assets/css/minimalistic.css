@@ -216,17 +216,9 @@ body {
 	.navbar-brand { 
 		padding-left: 0px;
 	} 
-	
-	.carousel-project {
-                height: calc(100vh - 170px);
- 
-         }
+
 }
 @media (min-width: 576px) and (max-width: 767.98px) { 
 	
-	
-	.carousel-project {
-                height: calc(100vh - 170px);
- 
-         }		
+		
 }
