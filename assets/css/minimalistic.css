@@ -25,9 +25,7 @@ body {
 .wrapper {
   position: relative;
   display:block;
-  to:120px;
-  lef:50px;
-  width: calc(100% - 100px);
+  width: 100%;
   overflow: hidden;
 }
 .opaque-overlay {
