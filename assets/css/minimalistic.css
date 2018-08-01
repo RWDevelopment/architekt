@@ -21,7 +21,10 @@ body {
 .t-shadow {
   text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
 }
-
+.slogan {
+	text-transform:uppercase;
+	font-weight:300;
+}
 .wrapper {
   position: relative;
   display:block;
